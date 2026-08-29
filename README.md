@@ -16,56 +16,40 @@ Animaciones y transiciones inspiradas en el original.
 Selección de coche y circuito.
 Sin dependencias de frameworks pesados (ajusta si usas alguno).
 🛠️ Tecnologías
-JavaScript (Vanilla) <!-- o React / Canvas / WebGL, ajusta según tu stack -->
+JavaScript (Vanilla)
+Vite (react)
 HTML5 / CSS3
-(añade aquí librerías extra: GSAP, PixiJS, etc. si las usas)
 📦 Instalación
 bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/Kesinh0/MenuTest.gi
+cd MenuTest
 
 # Instalar dependencias (si usas npm/yarn)
 npm install
 
-# Levantar en modo desarrollo
-npm run dev
-
-Si el proyecto no usa un bundler, basta con abrir index.html en el navegador o servirlo con:
-
-bash
-npx serve .
 🎮 Uso
-Abre la aplicación en el navegador.
-Usa las flechas del teclado (↑ ↓ ← →) para navegar entre las opciones del menú.
-Presiona Enter para confirmar una selección.
-
-(Ajusta estos controles a los que realmente implementaste.)
+npm run dev
 
 📁 Estructura del proyecto
 ├── src/
 │   ├── assets/        # Imágenes, fuentes y sonidos
 │   ├── components/    # Componentes del menú
 │   └── main.js        # Punto de entrada
-├── index.html
+│   └── Style.css      # estilo
 └── README.md
 🗺️ Roadmap
- Selección de coche con preview 3D/2D
- Sonidos originales del menú
- Guardado de mejores tiempos (localStorage)
- Soporte para gamepad
-🤝 Contribuciones
+- Que cargue datos desde un backend
+- Que muestre el mapa en vez del gif
+- Sonidos originales del menú
 
-Las contribuciones son bienvenidas. Si quieres colaborar:
 
-Haz un fork del repositorio.
-Crea una rama (git checkout -b feature/nueva-funcionalidad).
-Haz commit de tus cambios (git commit -m 'Agrega nueva funcionalidad').
-Haz push a la rama (git push origin feature/nueva-funcionalidad).
-Abre un Pull Request.
+
 ⚠️ Aviso legal
 
-Este es un proyecto de fans, no oficial, creado con fines educativos y de preservación de la nostalgia. Ridge Racer Type 4 y todos sus elementos visuales originales son propiedad de Bandai Namco Entertainment. Este repositorio no incluye assets originales del juego ni pretende sustituirlo comercialmente.
+Este es un proyecto de fans, no oficial, creado con fines educativos y de preservación de la nostalgia. 
+Ridge Racer Type 4 y todos sus elementos visuales originales son propiedad de Bandai Namco Entertainment. 
+Este repositorio no incluye assets originales del juego ni pretende sustituirlo comercialmente.
 
 📄 Licencia
 
