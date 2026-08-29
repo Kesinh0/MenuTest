@@ -21,30 +21,35 @@ JavaScript (Vanilla)
 Vite (react)
 HTML5 / CSS3
 📦 Instalación
-bash
+<pre>
 # Clonar el repositorio
-git clone https://github.com/Kesinh0/MenuTest.gi
+git clone https://github.com/Kesinh0/MenuTest.git <br>
 cd MenuTest
+</pre>
 
+<pre>
 # Instalar dependencias (si usas npm/yarn)
 npm install
-
+</pre>
+  
 🎮 Uso
+<pre>
 npm run dev
-
+</pre>
 📁 Estructura del proyecto
-├── src/
-│   ├── assets/        # Imágenes, fuentes y sonidos
-│   ├── components/    # Componentes del menú
-│   └── main.js        # Punto de entrada
-│   └── Style.css      # estilo
-└── README.md
+<pre>
+├── src/<br>
+│   ├── assets/        # Imágenes, fuentes y sonidos<br>
+│   ├── components/    # Componentes del menú<br>
+│   └── main.js        # Punto de entrada<br>
+│   └── Style.css      # estilo<br>
+└── README.md<br>
+</pre>
+
 🗺️ Roadmap
 - Que cargue datos desde un backend
 - Que muestre el mapa en vez del gif
 - Sonidos originales del menú
-
-
 
 ⚠️ Aviso legal
 
