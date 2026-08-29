@@ -3,7 +3,8 @@ RRT4 Time Attack Menu
 Recreación en JavaScript del menú de Time Attack de Ridge Racer Type 4 (PS1, 1998/1999), fiel a su estética, tipografía y animaciones de la época.
 
 ✨ Demo
-https://cdn.discordapp.com/attachments/1245422909632155803/1543393490732449833/image.png?ex=6a94b4b3&is=6a936333&hm=b502751c0909533ec280b87baf92765378103823c4d6224b6d7eb698ecd65d7e&
+<img width="1264" height="897" alt="Captura de pantalla 2026-08-29 190429" src="https://github.com/user-attachments/assets/3c21f685-71d8-44b4-82dd-e88b7d75ed8a" />
+
 
 📖 Descripción
 
